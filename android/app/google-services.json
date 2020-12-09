@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "614436786223",
+    "firebase_url": "https://restaurants-c1a61.firebaseio.com",
+    "project_id": "restaurants-c1a61",
+    "storage_bucket": "restaurants-c1a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614436786223:android:5f9dbb5d9d9ce0799176da",
+        "android_client_info": {
+          "package_name": "com.bringo.bringo_restaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614436786223-aqkjh5onfc1vliu0p0022b32ij1akm9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bringo.bringo_restaurants",
+            "certificate_hash": "e072121b3a621b9787edb1b09ad18a05f33894a6"
+          }
+        },
+        {
+          "client_id": "614436786223-cdreld7fa7tf95p1ojs9a3mr0ahbma76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRH3hRg1ILHG_o87yqdQx867QUgFK0Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614436786223-cdreld7fa7tf95p1ojs9a3mr0ahbma76.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614436786223-bkelebqmkpa2cq71rr7gb5vo7mgmcv3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bringo.bringoRestaurants"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
